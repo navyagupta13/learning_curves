@@ -1,2 +1,3 @@
 # learning_curves
-Learning by doing - experiments, errors, evolution
+Learning by doing - experiments, errors, evolution.
+Author- Navya Gupta
